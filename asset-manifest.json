@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/substrate-hackathon-frontend/static/js/main.40da350b.chunk.js",
+    "main.js.map": "/substrate-hackathon-frontend/static/js/main.40da350b.chunk.js.map",
+    "runtime-main.js": "/substrate-hackathon-frontend/static/js/runtime-main.53647221.js",
+    "runtime-main.js.map": "/substrate-hackathon-frontend/static/js/runtime-main.53647221.js.map",
+    "static/css/2.75943240.chunk.css": "/substrate-hackathon-frontend/static/css/2.75943240.chunk.css",
+    "static/js/2.ec01100c.chunk.js": "/substrate-hackathon-frontend/static/js/2.ec01100c.chunk.js",
+    "static/js/2.ec01100c.chunk.js.map": "/substrate-hackathon-frontend/static/js/2.ec01100c.chunk.js.map",
+    "index.html": "/substrate-hackathon-frontend/index.html",
+    "precache-manifest.04aa35d3469a0ab0bd4b0f69ec4feaa9.js": "/substrate-hackathon-frontend/precache-manifest.04aa35d3469a0ab0bd4b0f69ec4feaa9.js",
+    "service-worker.js": "/substrate-hackathon-frontend/service-worker.js",
+    "static/css/2.75943240.chunk.css.map": "/substrate-hackathon-frontend/static/css/2.75943240.chunk.css.map",
+    "static/js/2.ec01100c.chunk.js.LICENSE.txt": "/substrate-hackathon-frontend/static/js/2.ec01100c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/substrate-hackathon-frontend/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53647221.js",
+    "static/css/2.75943240.chunk.css",
+    "static/js/2.ec01100c.chunk.js",
+    "static/js/main.40da350b.chunk.js"
+  ]
+}
